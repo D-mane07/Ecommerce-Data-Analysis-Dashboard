@@ -1,6 +1,6 @@
 # Ecommerce Data Performance Analysis
 
-![Ecommerce Sales Dashboard](dashboard.png)
+![Ecommerce Sales Dashboard](Screenshots.png)
 
 ## 📌 Project Overview
 This project focuses on analyzing ecommerce sales data to extract meaningful insights regarding profitability, customer behavior, and regional performance. The dashboard provides a visual representation of key business metrics to aid in data-driven decision-making.
